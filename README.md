@@ -5,3 +5,23 @@
 For a demo and more information see: http://lens.elifesciences.org
 
 To suggest a feature, report a bug, or general discussion: http://github.com/elifesciences/lens/issues/
+
+
+# Install
+
+Installing and running Lens locally is quite simple, since all you need is a web-browser.
+
+```bash
+$ git clone https://github.com/elifesciences/lens.git
+$ cd lens
+$ open index.html
+```
+
+# Rough Plans for this summer
+
+We'll turn this into a roadmap soon.
+
+- Integrating other OA journals (first will be PLOS)
+- Private notes (users can stick notes on their paper
+- Offline reading
+- And obviously bugfixes, UI polish with respect to the feedback we got
