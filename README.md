@@ -17,7 +17,7 @@ $ cd lens
 $ open index.html
 ```
 
-# Rough Plans for this summer
+# Rough plans for this summer
 
 We'll turn this into a roadmap soon.
 
