@@ -21,7 +21,7 @@ $ open index.html
 
 We'll turn this into a roadmap soon.
 
-- Integrating other OA journals (first will be PLOS)
-- Private notes (users can stick notes on their paper
-- Offline reading
-- And obviously bugfixes, UI polish with respect to the feedback we got
+- Integrating other OA content (first will be [PLOS](http://www.plos.org))
+- Private notes, so users can stick notes on their paper which are stored locally
+- Evaluating options for offline reading
+- And obviously there will be bugfixes, UI polish addressing the feedback we've got
